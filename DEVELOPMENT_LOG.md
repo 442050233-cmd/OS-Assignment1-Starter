@@ -1,121 +1,44 @@
 # Development Log
 
-## Instructions
-Document your development process as you work on the assignment. Add entries showing:
-- What you worked on
-- Problems you encountered
-- How you solved them
-- Time spent
-
-**Requirements**: Minimum 5 entries showing progression over time.
+## Entry 1
+Date: 2026-03-28  
+Task: Setup GitHub repository and fork project  
+Challenges: Understanding how to fork repository  
+Solution: Followed instructions from assignment  
+Time Spent: 20m  
 
 ---
 
-## Example Entry Format:
-
-### Entry 1 - [April 1, 2026, 2:30 PM]
-**What I did**: Forked the repository and set up my student ID
-
-**Details**: 
-- Created GitHub account with university email
-- Forked the starter repository
-- Changed student ID on line 92 to my actual ID (441234567)
-- Compiled and ran the program successfully
-
-**Challenges**: Had to install JDK first because javac wasn't recognized
-
-**Solution**: Downloaded JDK 17 from Oracle website and set PATH variable
-
-**Time spent**: 30 minutes
+## Entry 2
+Date: 2026-03-29  
+Task: Added student ID and tested code  
+Challenges: Running Java code in IDE  
+Solution: Used VS Code and installed Java extensions  
+Time Spent:20m  
 
 ---
 
-## Your Development Log:
-
-### Entry 1 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+## Entry 3
+Date: 2026-03-30  
+Task: Implemented Priority feature  
+Challenges: Modifying constructor and printing values  
+Solution: Added priority variable and getter  
+Time Spent: 30m 
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+## Entry 4
+Date: 2026-03-31  
+Task: Implemented Context Switch counter  
+Challenges: Knowing where to increment counter  
+Solution: Added counter before thread start  
+Time Spent: 30m  
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
----
-
-### Entry 4 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
----
-
-### Entry 5 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
----
-
-### Entry 6 - [Optional - Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
----
-
-## Summary
-
-**Total time spent on assignment**: [X hours]
-
-**Most challenging part**: 
-
-**Most interesting learning**: 
-
-**What I would do differently next time**: 
+## Entry 5
+Date: 2026-04-01  
+Task: Implemented Waiting Time and testing  
+Challenges: Calculating correct waiting time  
+Solution: Used System.currentTimeMillis()  
+Time Spent:1 hours  
